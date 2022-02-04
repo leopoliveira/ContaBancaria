@@ -1,0 +1,8 @@
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.exe.config
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.exe
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.pdb
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.csproj.AssemblyReference.cache
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.csproj.CoreCompileInputs.cache
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.exe
+G:\My Drive\28 - Back End\1 - CSharp\3 - Projetos\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.pdb
