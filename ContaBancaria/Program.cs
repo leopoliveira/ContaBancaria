@@ -19,7 +19,7 @@ namespace ContaBancaria
 
             if(fazerDepositoInicial == 's' || fazerDepositoInicial == 'S')
             {
-                Console.WriteLine("Valor para depósito: ");
+                Console.WriteLine("Valor para depósito (decimal separado por ponto): ");
                  valorDepositoInicial = double.Parse(Console.ReadLine());
                 
             } else
@@ -42,7 +42,7 @@ namespace ContaBancaria
                 case 1:
                     Console.WriteLine("------------------------------");
                     Console.WriteLine("Você escolheu Depósito");
-                    Console.WriteLine("Valor para depósito: ");
+                    Console.WriteLine("Valor para depósito (decimal separado por ponto): ");
                     usuario1.Deposito(double.Parse(Console.ReadLine()));
                     Console.WriteLine(usuario1);
                     Console.WriteLine("------------------------------");
@@ -50,8 +50,8 @@ namespace ContaBancaria
                 case 2:
                     Console.WriteLine("------------------------------");
                     Console.WriteLine("Você escolheu Saque");
-                    Console.WriteLine("Nosso saque tem um valor de R$5,00 por operação.");
-                    Console.WriteLine("Valor para saque: ");
+                    Console.WriteLine("Nosso saque tem um valor de R$5.00 por operação.");
+                    Console.WriteLine("Valor para saque (decimal separado por ponto): ");
                     usuario1.Saque(double.Parse(Console.ReadLine()));
                     Console.WriteLine(usuario1);
                     Console.WriteLine("------------------------------");
